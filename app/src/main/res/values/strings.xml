@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WayloPriceCalculator</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+
+    <string name="facebook_app_id">275328633104311</string>
+    <string name="fb_login_protocol_scheme">fb275328633104311</string>
+
+</resources>

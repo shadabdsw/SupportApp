@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1085172164437",
+    "firebase_url": "https://waylo-c3a27.firebaseio.com",
+    "project_id": "waylo-c3a27",
+    "storage_bucket": "waylo-c3a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085172164437:android:286a1ae2eea26515",
+        "android_client_info": {
+          "package_name": "com.thedarkshadows.WayloProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085172164437-12vd8v81jkb347i8d92uanjhbga35m1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2hs0xjHlRPULm8gI-Vd-a1BJVNuK_ggo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

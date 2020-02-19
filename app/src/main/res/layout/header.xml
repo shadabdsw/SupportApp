@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@drawable/temp"
+    android:paddingTop="70dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:background="@drawable/waylo_oval"
+        android:contentDescription="@string/app_name"/>
+
+</LinearLayout>
